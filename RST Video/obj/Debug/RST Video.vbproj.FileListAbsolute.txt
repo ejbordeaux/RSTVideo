@@ -1,0 +1,37 @@
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\ApplicationInsights.config
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\csc.exe
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\vbc.exe
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\RST Video.dll.config
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\RST Video.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\RST Video.pdb
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\RST Video.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.Web.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.Web.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\obj\Debug\RST Video.vbprojResolveAssemblyReference.cache
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\obj\Debug\RST_Video.Resources.resources
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\obj\Debug\RST Video.vbproj.GenerateResource.Cache
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\obj\Debug\RST Video.dll
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\obj\Debug\RST Video.xml
+C:\Users\Eddon Bordeaux\Documents\Visual Studio 2015\Projects\RST Video\RST Video\obj\Debug\RST Video.pdb
